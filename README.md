@@ -5,4 +5,6 @@ about section
 
 ## installation
 
-surprise mother fucker
+
+surprise Mother fucker
+
